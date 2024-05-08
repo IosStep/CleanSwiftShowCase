@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  CleanSiwftShowCase
-//
-//  Created by Aldiyar Aitpayev on 04.05.2024.
-//
-
 import UIKit
 import SnapKit
 

@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B0C5335E2BE9399800780372 /* CollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0C5335D2BE9399800780372 /* CollectionViewController.swift */; };
+		B0C533602BE93D9F00780372 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0C5335F2BE93D9F00780372 /* CollectionViewCell.swift */; };
 		B0EA89572BE68FF500E92AF8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0EA89562BE68FF500E92AF8 /* AppDelegate.swift */; };
 		B0EA895B2BE68FF500E92AF8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0EA895A2BE68FF500E92AF8 /* ViewController.swift */; };
 		B0EA89602BE68FF600E92AF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0EA895F2BE68FF600E92AF8 /* Assets.xcassets */; };
@@ -19,6 +21,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B0C5335D2BE9399800780372 /* CollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewController.swift; sourceTree = "<group>"; };
+		B0C5335F2BE93D9F00780372 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 		B0EA89532BE68FF500E92AF8 /* CleanSiwftShowCase.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CleanSiwftShowCase.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0EA89562BE68FF500E92AF8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B0EA895A2BE68FF500E92AF8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -64,6 +68,8 @@
 			children = (
 				B0EA89562BE68FF500E92AF8 /* AppDelegate.swift */,
 				B0EA895A2BE68FF500E92AF8 /* ViewController.swift */,
+				B0C5335D2BE9399800780372 /* CollectionViewController.swift */,
+				B0C5335F2BE93D9F00780372 /* CollectionViewCell.swift */,
 				B0EA89762BE6968100E92AF8 /* SentencesInteractor.swift */,
 				B0EA89782BE696E100E92AF8 /* SentencesPresenter.swift */,
 				B0EA897A2BE69AD100E92AF8 /* SenteceRouter.swift */,
@@ -153,8 +159,10 @@
 			files = (
 				B0EA897B2BE69AD100E92AF8 /* SenteceRouter.swift in Sources */,
 				B0EA896B2BE6930200E92AF8 /* NetworkManager.swift in Sources */,
+				B0C533602BE93D9F00780372 /* CollectionViewCell.swift in Sources */,
 				B0EA89792BE696E100E92AF8 /* SentencesPresenter.swift in Sources */,
 				B0EA895B2BE68FF500E92AF8 /* ViewController.swift in Sources */,
+				B0C5335E2BE9399800780372 /* CollectionViewController.swift in Sources */,
 				B0EA89572BE68FF500E92AF8 /* AppDelegate.swift in Sources */,
 				B0EA89772BE6968100E92AF8 /* SentencesInteractor.swift in Sources */,
 			);
